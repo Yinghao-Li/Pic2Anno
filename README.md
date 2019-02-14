@@ -1,2 +1,4 @@
 # Pic2Anno
-Convert picture and words to annotation
+Convert picture and words to annotation.
+
+Something.
